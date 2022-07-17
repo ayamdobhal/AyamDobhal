@@ -2,7 +2,7 @@
 
 ### Ohhey! I'm [Ayam Dobhal](https://ayamdobhal.github.io) 😀
 
-## I'm a Engineering student and also a Backend Developer
+## I'm an Engineering student and also a Backend Developer
 - 🎓 I'm currently in the Third Year of Engineering
 - 💻 Mostly, I deal with backend development but also dive into other fields like Machine Learning and Blockchain sometimes
 - ⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
