@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=AyamDobhal)
 
-### Ohhey, I'm [Ayam Dobhal](https://ayamdobhal.github.io) 😀
+### Ohhey! I'm [Ayam Dobhal](https://ayamdobhal.github.io) 😀
 
 ## I'm a Engineering student and also a Backend Developer
 - 🎓 I'm currently in the Third Year of Engineering
