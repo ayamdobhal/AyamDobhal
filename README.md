@@ -6,7 +6,7 @@
 - 🎓 I'm currently in the Third Year of Engineering
 - 💻 Mostly, I deal with backend development but also dive into other fields like Machine Learning and Blockchain sometimes
 - ⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
-- 👨‍💻 Right now I'm trying to explore more and more fields to learn more and get experience on different fields
+- 👨‍💻 Currently diving deeper into blockchain and in love with TypeScript
 
 ## Languages and Tools
 
@@ -57,9 +57,9 @@
 
 [<img align="left" alt="@ayamdobhal | Twitter" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />](https://twitter.com/ayamdobhal)
 
-[<img align="left" alt="Ayam Dobhal | YouTube" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-512.png" />](https://www.youtube.com/channel/UCYmLj9J8ZdfpK3hTgsD1u3A)
+[<img align="left" alt="Ayam Dobhal | YouTube" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-512.png" />](https://www.youtube.com/@ayamdobhal)
 
-[<img align="left" alt="Ayam1533 | Twitch" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/343_Twitch_logo-512.png" />](https://twitch.tv/ayam1533")
+[<img align="left" alt="Ayam1533 | Twitch" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/343_Twitch_logo-512.png" />](https://twitch.tv/ayam1533)
 
 [<img align="left" alt="Ayam Dobhal | XDA-Developers" width="26px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png" />](https://forum.xda-developers.com/m/ayamdobhal.8250851)
 
@@ -71,9 +71,9 @@
 
 ### GitHub Stats
 
-<img alt="Ayam Dobhal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AyamDobhal&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+<img alt="Ayam Dobhal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AyamDobhal&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" />
 <br />
-<img alt="Ayam Dobhal's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=AyamDobhal&theme=dark" />
+<img alt="Ayam Dobhal's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=AyamDobhal&theme=gotham" />
 
 ### Spotify Activity
 [![Spotify](https://novatorem-ayamdobhal.vercel.app/api/spotify?background_color=0d1117&border_color=00ecff)](https://open.spotify.com/user/ayam_d)
