@@ -69,11 +69,15 @@
 
 <br />
 
-### GitHub Stats
+## GitHub Stats
 
 <img alt="Ayam Dobhal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AyamDobhal&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" />
 <br />
 <img alt="Ayam Dobhal's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=AyamDobhal&theme=gotham" />
 
-### Spotify Activity
+## Holopin Flex
+
+[![@ayamdobhal's Holopin board](https://holopin.me/ayamdobhal)](https://holopin.io/@ayamdobhal)
+
+## Spotify Activity
 [![Spotify](https://novatorem-ayamdobhal.vercel.app/api/spotify?background_color=0d1117&border_color=00ecff)](https://open.spotify.com/user/ayam_d)
