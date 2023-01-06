@@ -75,6 +75,8 @@
 <br />
 <img alt="Ayam Dobhal's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=AyamDobhal&theme=gotham" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayamdobhal&theme=gotham)
+
 ## Holopin Flex
 
 [![@ayamdobhal's Holopin board](https://holopin.me/ayamdobhal)](https://holopin.io/@ayamdobhal)
