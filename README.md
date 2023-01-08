@@ -71,11 +71,11 @@
 
 ## GitHub Stats
 
-<img alt="Ayam Dobhal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AyamDobhal&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" />
+![Ayam Dobhal's Github Stats](https://github-readme-stats.vercel.app/api?username=AyamDobhal&show_icons=true&include_all_commits=true&count_private=true&theme=gotham)
+![Ayam Dobhal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayamdobhal&theme=gotham&langs_count=10&layout=compact&show_icons=true)
 <br />
 <img alt="Ayam Dobhal's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=AyamDobhal&theme=gotham" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayamdobhal&theme=gotham)
 
 ## Holopin Flex
 
