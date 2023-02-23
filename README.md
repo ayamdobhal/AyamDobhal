@@ -2,11 +2,11 @@
 
 ### Ohhey! I'm [Ayam Dobhal](https://ayamdobhal.github.io) 😀
 
-## I'm an Engineering student and also a Backend Developer
+## I'm an Engineering student and also a Fullstack/Blockchain Developer
 - 🎓 I'm currently in the Third Year of Engineering
-- 💻 Mostly, I deal with backend development but also dive into other fields like Machine Learning and Blockchain sometimes
+- 💻 Mostly, I deal with backend/blockchain development but also dive into other fields like Machine Learning sometimes
 - ⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
-- 👨‍💻 Currently diving deeper into blockchain and in love with TypeScript
+- 👨‍💻 Diving deeper into blockchain these days
 
 ## Languages and Tools
 
