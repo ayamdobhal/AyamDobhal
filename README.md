@@ -3,7 +3,7 @@
 ### Ohhey! I'm [Ayam Dobhal](https://ayamdobhal.github.io) 😀
 
 ## I'm an Engineering student and also a Fullstack/Blockchain Developer
-- 🎓 I'm currently in the Third Year of Engineering
+- 🎓 I'm currently in the Fourth Year of Engineering
 - 💻 Mostly, I deal with backend/blockchain development but also dive into other fields like Machine Learning sometimes
 - ⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
 - 👨‍💻 Diving deeper into blockchain these days
@@ -65,14 +65,12 @@
 
 [<img align="left" alt="ayamdobhal | Instagram" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />](https://instagram.com/ayamdobhal)
 
-[<img align="left" alt="Ayam Dobhal | LinkedIn" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />](https://www.linkedin.com/in/ayam-dobhal-845aa0189/)
+[<img align="left" alt="Ayam Dobhal | LinkedIn" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />](https://www.linkedin.com/in/ayamdobhal/)
 
 <br />
 
 ## GitHub Stats
 
-![Ayam Dobhal's Github Stats](https://github-readme-activity-graph.cyclic.app/graph?username=ayamdobhal&theme=react-dark)
-<br />
 <img alt="Ayam Dobhal's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=AyamDobhal&theme=gotham" />
 
 
