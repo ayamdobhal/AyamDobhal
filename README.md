@@ -6,7 +6,7 @@ Final Year CSE Student. <br />
 
 ### Have I been active lately?
 
-<img alt="Stats said: Nope, not loading..." src="https://github-stats-widget-git-main-ayamdobhal.vercel.app/api?username=ayamdobhal&theme=transparent" />
+<img alt="Stats said: Nope, not loading..." src="https://github-stats-widget-git-main-ayamdobhal.vercel.app/api?username=ayamdobhal&show_icons=true&theme=transparent" />
 
 ### Music?
 
