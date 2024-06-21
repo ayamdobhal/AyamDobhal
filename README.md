@@ -1,6 +1,5 @@
 # About Me?
 Fullstack/Blockchain Developer. <br />
-Final Year CSE Student. <br />
 
 <img src="https://komarev.com/ghpvc/?username=AyamDobhal"> <br />
 
