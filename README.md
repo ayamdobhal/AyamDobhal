@@ -9,7 +9,7 @@ Fullstack/Blockchain Developer. <br />
 
 ### Music?
 
-<a href="https://open.spotify.com/user/ayam_d" target="_blank">
+<a href="https://last.fm/user/ayamdobhal" target="_blank">
   <img 
     src="https://novatorem-ayamdobhal.vercel.app/api/spotify?background_color=0d1117&border_color=00ecff"
     alt="Either Vercel or Spotify decided to ditch me can't help."
