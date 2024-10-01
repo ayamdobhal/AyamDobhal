@@ -15,3 +15,8 @@ Fullstack/Blockchain Developer. <br />
     alt="Either Vercel or Spotify decided to ditch me can't help."
   >
 </a>
+<br />
+<br />
+<a href="https://cv.iamdobhal.dev" target="_blank">
+  See my resume here
+</a>
