@@ -1,5 +1,5 @@
 # About Me?
-Fullstack/Blockchain Developer. <br />
+Engineer, gamer, reader and a professional music listener. <br />
 
 <img src="https://komarev.com/ghpvc/?username=AyamDobhal"> <br />
 
